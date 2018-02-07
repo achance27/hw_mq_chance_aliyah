@@ -1,0 +1,22 @@
+body {
+	background-color: #f4e6b2;
+}
+
+/* MEDIA QUERIES */
+/* - - MIN WIDTH - - */
+@media (min-width: 675px) {
+	body {
+		background-color: #a8f4d5;
+	}
+}
+@media (min-width: 999px) {
+	body {
+		background-color: #a8cdf4;
+	}
+}
+@media (min-width: 1280px) {
+	body {
+		background-color: #aea8f4;
+	}
+}
+/* - - MAX WIDTH - - */
