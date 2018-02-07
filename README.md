@@ -5,7 +5,7 @@
 ## Introduction
 Welcome to some fun with media queries and colors!
 
-*See it all [here]()!*
+*See it all [here](https://github.com/achance27/hw_mq_chance_aliyah)!*
 
 ## Resources
 
